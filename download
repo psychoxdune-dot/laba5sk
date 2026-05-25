@@ -1,0 +1,8 @@
+_build/
+*.pyc
+*.swp
+*.swo
+*.out
+*.log
+*.txt
+!output.txt
